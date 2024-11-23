@@ -1,3 +1,21 @@
 #Ads Block List Pi-Hole
+# Türkiye'de Kar Amacı Güden Gruplar
+# Reklam ve Ads veriyor.
 0.0.0.0	turkanime.co
+0.0.0.0	www.turkanime.co
 0.0.0.0 animeevim.com
+0.0.0.0 wwww.animeevim.com
+0.0.0.0 animeler.net
+0.0.0.0 www.animeler.net
+0.0.0.0 anizm.net
+0.0.0.0 wwww.anizm.net
+0.0.0.0 anisekai.com
+0.0.0.0 wwww.anisekai.com
+0.0.0.0 adonisfansub.com
+0.0.0.0 wwww.adonisfansub.com
+0.0.0.0 puzzlesubs.com
+0.0.0.0 www.puzzlesubs.com
+0.0.0.0 akirasubs.net
+0.0.0.0 www.akirasubs.net
+0.0.0.0 anitr.com
+0.0.0.0 wwww.anitr.com
