@@ -1,1 +1,3 @@
-0.0.0.0	turkanime.co //Reklam-Dolandırıcı
+#Ads Block List Pi-Hole
+0.0.0.0	turkanime.co
+0.0.0.0 animeevim.com
