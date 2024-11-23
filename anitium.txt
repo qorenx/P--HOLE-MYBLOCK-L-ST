@@ -19,3 +19,7 @@
 0.0.0.0 www.akirasubs.net
 0.0.0.0 anitr.com
 0.0.0.0 wwww.anitr.com
+0.0.0.0 yeppuu.com
+0.0.0.0 www.yeppuu.com
+0.0.0.0 tranimeizle.co
+0.0.0.0 www.tranimeizle.co
