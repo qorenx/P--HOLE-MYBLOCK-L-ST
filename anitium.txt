@@ -30,7 +30,6 @@
 0.0.0.0 www.dopvvonqtllf.com
 0.0.0.0 1065805798.rsc.cdn77.org
 0.0.0.0 1038918147.rsc.cdn77.org
-0.0.0.0 *.rsc.cdn77.org
 0.0.0.0 latoken.com
 0.0.0.0 www.latoken.com
 0.0.0.0 sb.adtidy.org
